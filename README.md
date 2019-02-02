@@ -1,1 +1,1 @@
-# ReadingRoom-POS-Program(Point Of Sales)
+# POS Program
