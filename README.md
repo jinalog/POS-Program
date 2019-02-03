@@ -12,6 +12,4 @@ The program is a ***reading room management program***.
 
 ######  - A program that helps conveniently calculate the amount of time used 
 
-***OBJECTIVE*** 
-***1) Simplifies admission/exit processing***
-***2) easy checking of reading room usage***
+***OBJECTIVE  1) Simplifies admission/exit processing  2) easy checking of reading room usage***
