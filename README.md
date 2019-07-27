@@ -21,4 +21,4 @@ The program is a ***reading room management program***.
 
 ***2) easy checking of reading room usage***
 
-## [demonstration video(YouTube)](https://www.youtube.com/watch?v=NF2Q6H4EKLQ)
+## [demo video(YouTube)](https://www.youtube.com/watch?v=NF2Q6H4EKLQ)
